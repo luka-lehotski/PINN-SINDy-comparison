@@ -25,10 +25,10 @@ Here is the benchmarking breakdown across the three tested datasets (Target para
 ## 🖼️ Visualizations
 
 <p align="center">
-  <img src="pinn_dataset_1_1pct_sum.png" alt="Dataset 1 Conversion" width="45%">
+  <img src="pinn_dataset_1_1pct_sum.png" alt="Dataset 1 Conversion" width="75%">
 </p>
 <p align="center">
-    <img src="pinn_dataset_2_10pct_sum.png" alt="Dataset 2 Noisy Conversion" width="45%">
+    <img src="pinn_dataset_2_10pct_sum.png" alt="Dataset 2 Noisy Conversion" width="75%">
 </p>
 <p align="center">
   <img src="pinn_dataset_3_kaggle.png" alt="Dataset 3 Kaggle Failure Mode" width="90%">
