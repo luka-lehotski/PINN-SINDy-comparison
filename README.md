@@ -25,14 +25,17 @@ Here is the benchmarking breakdown across the three tested datasets (Target para
 ## 🖼️ Visualizations
 
 <p align="center">
-  <img src="pinn_dataset_1_1pct_sum.png" alt="Dataset 1 Conversion" width="75%">
+  <img src="plots/comparison_ds1_phasespace.png" alt="Dataset 1 Phasespace comparison" width="45%">
+  <img src="plots/comparison_ds1_trajectory.png" alt="Dataset 1 Trajectory" width="45%">
 </p>
 <p align="center">
-    <img src="pinn_dataset_2_10pct_sum.png" alt="Dataset 2 Noisy Conversion" width="75%">
+  <img src="plots/comparison_ds2_phasespace.png" alt="Dataset 2 Phasespace comparison" width="45%">
+  <img src="plots/comparison_ds2_trajectory.png" alt="Dataset 2 Trajectory" width="45%">
 </p>
 <p align="center">
-  <img src="pinn_dataset_3_kaggle.png" alt="Dataset 3 Kaggle Failure Mode" width="90%">
+    <img src="pinn_dataset_2_10pct_sum.png" alt="Dataset 2 Noisy Conversion" width="90%">
 </p>
+
 
 ---
 
